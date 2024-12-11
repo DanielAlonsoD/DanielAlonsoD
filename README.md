@@ -1,5 +1,12 @@
-## Hi there 👋
-![alt text]([http://url/to/img.png](https://github.com/DanielAlonsoD/assets/blob/main/Portada.svg))
+<div id="header" align="center">
+  <img src="https://github.com/DanielAlonsoD/assets/blob/main/Portada.svg"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/daniel-alonso-dom%C3%ADnguez-617325214/">
+    <img src="https://github.com/DanielAlonsoD/assets/blob/main/LinkedIn.svg"/>
+  </a>
+</div>
+<hr>
 <!--
 **DanielAlonsoD/DanielAlonsoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
