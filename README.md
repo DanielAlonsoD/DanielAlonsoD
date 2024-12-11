@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://github.com/DanielAlonsoD/assets/blob/main/Portada.svg"/>
+  <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/Portada.svg"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/daniel-alonso-dom%C3%ADnguez-617325214/">
-    <img src="https://github.com/DanielAlonsoD/assets/blob/main/LinkedIn.svg"/>
+    <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/LinkedIn.svg"/>
   </a>
 </div>
 <hr>
