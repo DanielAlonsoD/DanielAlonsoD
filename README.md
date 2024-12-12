@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/Portada.svg"/>
+  <a href="https://github.com/DanielAlonsoD">
+    <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/Portada.svg"/>
+  </a>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/daniel-alonso-dom%C3%ADnguez-617325214/">
@@ -7,6 +9,7 @@
   </a>
 </div>
 <hr>
+<h1>About Me</h1>
 <!--
 **DanielAlonsoD/DanielAlonsoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
