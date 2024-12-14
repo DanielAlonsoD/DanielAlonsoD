@@ -10,6 +10,11 @@
 </div>
 <hr>
 <h1>About Me</h1>
+I’m a Software Developer from Spain.
+<ul><li>I’m currently studying  Flutter</li></ul>
+<hr>
+<h1>Language and Tools</h1>
+
 
 <!--
 **DanielAlonsoD/DanielAlonsoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
