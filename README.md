@@ -14,40 +14,19 @@ I’m a Software Developer from Spain.
 <ul><li>I’m currently studying  Flutter</li></ul>
 <hr>
 <h1>Language and Tools</h1>
-<a href="https://github.com/DanielAlonsoD">
+<p>
   <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/Flutter.svg"/>
-</a>
-<a href="https://github.com/DanielAlonsoD">
   <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/VSCode.svg"/>
-</a>
-<a href="https://github.com/DanielAlonsoD">
   <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/Firebase.svg"/>
-</a>
-<a href="https://github.com/DanielAlonsoD">
   <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/Java.svg"/>
-</a>
-<a href="https://github.com/DanielAlonsoD">
   <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/Android%20Studio.svg"/>
-</a>
-<a href="https://github.com/DanielAlonsoD">
   <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/Eclipse%20IDE.svg"/>
-</a>
-<a href="https://github.com/DanielAlonsoD">
   <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/Postman.svg"/>
-</a>
-<a href="https://github.com/DanielAlonsoD">
   <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/MySQL.svg"/>
-</a>
-<a href="https://github.com/DanielAlonsoD">
   <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/HTML.svg"/>
-</a>
-<a href="https://github.com/DanielAlonsoD">
   <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/CSS.svg"/>
-</a>
-<a href="https://github.com/DanielAlonsoD">
   <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/Git.svg"/>
-</a>
-  
+</p>
 
 
 <!--
