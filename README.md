@@ -8,11 +8,11 @@
     <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/LinkedIn.svg"/>
   </a>
 </div>
-<hr>
+<!--<hr>-->
 <h1>About Me</h1>
 I’m a Software Developer from Spain.
 <ul><li>I’m currently studying  Flutter</li></ul>
-<hr>
+<!--<hr>-->
 <h1>Language and Tools</h1>
 <p>
   <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/Flutter.svg"/>
