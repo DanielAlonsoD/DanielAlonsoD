@@ -31,7 +31,7 @@ I’m a Software Developer from Spain.
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=DanielAlonsoD&count_private=true&show_icons=true&theme=github_dark "/>
+    <img src="https://github-readme-stats.vercel.app/api?username=DanielAlonsoD&count_private=true&show_icons=true&theme=github_dark"/>
   </a>
 </div>
 <div>
