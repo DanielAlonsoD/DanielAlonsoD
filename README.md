@@ -27,6 +27,19 @@ I’m a Software Developer from Spain.
   <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/CSS.svg"/>
   <img src="https://github.com/DanielAlonsoD/READMEAssets/blob/main/Git.svg"/>
 </p>
+<h1>Statistics</h1>
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=DanielAlonsoD&count_private=true&show_icons=true&theme=github_dark "/>
+  </a>
+</div>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAlonsoD&layout=compact&count_private=true&show_icons=true&theme=github_dark" />
+  </a>
+</div>
+
 
 
 <!--
